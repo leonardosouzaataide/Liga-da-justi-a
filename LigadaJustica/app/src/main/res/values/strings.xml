@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Liga da Justica</string>
+    <string name="herois_da_liga">herois da liga:</string>
+    <string name="flash">flash</string>
+    <string name="super_homem">super_homem</string>
+    <string name="batman">batman</string>
+    <string name="mulher_maravilha">mulher_maravilha</string>
+    <string name="ficha_do_heroi">ficha do heroi:</string>
+    <string name="nome_real">nome real:</string>
+    <string name="codinome">Codinome:</string>
+    <string name="habilidades">habilidades:</string>
+    <string name="vulnerabilidades">vulnerabilidades:</string>
+    <string name="equipamentos">equipamentos:</string>
+    <string name="inteligente">inteligente</string>
+    <string name="artes_marciais">artes marciais</string>
+    <string name="string_artes_marciais" />
+    <string name="pico_fisico">pico fisico</string>
+    <string name="bruce_wayne">bruce wayne</string>
+    <string name="mero_mortal">mero mortal</string>
+    <string name="seus_falecidos_pais">seus falecidos pais</string>
+    <string name="kal_el_krypton">kal-el (krypton)</string>
+    <string name="clark_kent">clark kent</string>
+    <string name="sol_semelhante_ao_de_krypton">sol semelhante ao de krypton</string>
+    <string name="nenhum">nenhum</string>
+    <string name="kryptonita">kryptonita</string>
+    <string name="sopro_congelante">sopro congelante</string>
+    <string name="visao_de_calor">visao de calor</string>
+    <string name="super_forca">super forca</string>
+    <string name="voo">voo</string>
+    <string name="super_sentidos">super sentidos</string>
+    <string name="super_agilidade">super agilidade</string>
+    <string name="traje_que_mant_m_seu_corpo_em_forma_durante_suas_corridas">traje: que mantém seu corpo em formadurante suas corridas</string>
+    <string name="sua_velocidade_pode_prende_lo_entre_dimensoes">sua velocidade pode prende-lo entre dimensoes</string>
+    <string name="reflexos_aprimorados">reflexos aprimorados</string>
+    <string name="super_velocidade">super velocidade</string>
+    <string name="bartholomew_henry_allen">bartholomew henry allen</string>
+    <string name="cinto_ele_possui_varias_coisas_como_bombas_de_fuma_a_para_auxiliar_batman">cinto: ele possui varias coisas como bombas de fumaça para auxiliar batman</string>
+    <string name="batarangue_um_bumerangue_em_forma_de_morcego_e_o_principal_apetrecho_dele">batarangue: é um bumerangue em forma de morcego e é o principal apetrecho dele</string>
+    <string name="batmovel_principal_veiculo_do_batman_possui_diversos_armamentos">batmovel: principal veiculo do batman, possui diversos armamentos</string>
+    <string name="princesa_diana">princesa diana</string>
+    <string name="fraca_contra_ataques_psicologicos">fraca contra ataques psicologicos</string>
+    <string name="escudo_a_protege_da_maioria_dos_ataques">escudo: a protege da maioria dos ataques</string>
+    <string name="braceletes_assim_como_o_escudo_a_protegem_contra_a_maioria_dos_ataques_e_refletem_projeteis_como_lasers">braceletes: assim como o escudo, a protegem contra a maioria dos ataques e refletem projeteis como lasers</string>
+    <string name="la_o_seu_la_o_faz_com_que_a_pessoa_presa_nele_so_conte_a_verdade_sendo_uma_das_mais_famosas_armas_da_mesma">laço: seu laço faz com que a pessoa presa nele so conte a verdade sendo uma das mais famosas armas da mesma</string>
+    <string name="invulneravel">invulneravel</string>
+    <string name="imortal">imortal</string>
+    <string name="seus_amigos">seus amigos</string>
+    <string name="ser_enganada">ser enganada</string>
+    <string name="origem_da_liga">Origem da liga</string>
+
+
+</resources>

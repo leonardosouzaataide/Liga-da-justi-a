@@ -1,0 +1,2 @@
+rootProject.name='Liga da Justica'
+include ':app'
